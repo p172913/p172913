@@ -45,7 +45,7 @@
 
 ---
 
-<h3 align="center">🤝 Connect With Me</h3
+<h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rajbhargav-pentapati">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
