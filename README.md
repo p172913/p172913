@@ -1,27 +1,62 @@
-## Hi there 👋
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Raj Bhargav Pentapati</h1>
+<h3 align="center">DevOps & Backend Engineer | AWS • Kubernetes • CI/CD • Automation</h3>
 
-<!--
-**p172913/p172913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 About Me
+- 🔧 DevOps Engineer automating **CI/CD, Kubernetes deployments & cloud infra**
+- 🧰 Backend engineer building scalable **Spring Boot microservices**
+- 🐍 Contributor to the **Kubernetes Python Client (CNCF)**  
+- ☁️ Experienced with **AWS, Docker, Jenkins, GitLab CI, Terraform, K8s**
+- 📈 Obsessed with automation, infra-as-code, performance & observability  
+- 🎯 Competitive programmer — **2000+ CodeChef | 1750+ LeetCode | 5★ HackerRank**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Associate Software Engineer with 3 years of experience building scalable, cloud-native applications using Typescript, Spring Boot, Kubernetes, and AWS. Passionate about backend development, infrastructure automation, and observability.
+---
 
-I’ve led projects optimizing REST APIs, automating OWASP scans, and building AWS-based CI/CD pipelines with Docker, Jenkins, and Kubernetes — significantly reducing manual effort and deployment times.
+<h1 align="center">🔥 Tech Stack</h1>
 
-Outside of work, I regularly upskill through advanced AI, DevOps, and cloud courses, and enjoy participating in coding challenges on platforms like LeetCode, CodeChef, and HackerRank.
+<h3 align="center">🧩 DevOps & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,jenkins,terraform,linux,gitlab" />
+</p>
 
-🔗 GitHub: https://github.com/p172913
+<h3 align="center">💻 Programming</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,bash" />
+</p>
 
-📂 Portfolio: https://p172913.github.io/Portfolio/#/
+<h3 align="center">⚙️ Backend & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github" />
+</p>
 
-🔁 Open to collaboration on open-source
+<h3 align="center">📊 GitHub Stats </h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=p172913&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p172913&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p172913&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<h3 align="center">📈 Contribution Graph</h3>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p172913&theme=tokyo-night" />
+</p>
+
+---
+
+<h3 align="center">🤝 Connect With Me</h3
+<p align="center">
+<a href="https://linkedin.com/in/rajbhargav-pentapati">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/p172913">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
