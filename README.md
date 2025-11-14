@@ -21,5 +21,7 @@ I’ve led projects optimizing REST APIs, automating OWASP scans, and building A
 Outside of work, I regularly upskill through advanced AI, DevOps, and cloud courses, and enjoy participating in coding challenges on platforms like LeetCode, CodeChef, and HackerRank.
 
 🔗 GitHub: https://github.com/p172913
+
 📂 Portfolio: https://p172913.github.io/Portfolio/#/
+
 🔁 Open to collaboration on open-source
