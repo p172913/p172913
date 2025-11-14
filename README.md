@@ -42,12 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p172913&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p172913&theme=tokyo-night" />
-</p>
 
 ---
 
