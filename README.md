@@ -57,15 +57,12 @@
 <h3 align="center">💻 Competitive Programming</h3>
 <p align="center">
   <a href="https://leetcode.com/u/user0767uj/" target="_blank">
-    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=white&color=white"
-    height="70">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="40" height="40" style="filter: invert(60%) sepia(85%) saturate(1500%) hue-rotate(360deg);">
   </a>
   <a href="https://www.codechef.com/users/pr961849" target="_blank">
-    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=codechef&logoColor=brown&labelColor=white&color=white"
-    height="70">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="40" height="40" >
   </a>
   <a href="https://www.geeksforgeeks.org/user/rajbhargavp/" target="_blank">
-    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=geeksforgeeks&logoColor=14A800&labelColor=white&color=white"
-    height="70">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="40" height="40">
   </a>
 </p>
