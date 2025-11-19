@@ -54,3 +54,18 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
+<h3 align="center">💻 Competitive Programming</h3>
+<p align="center">
+  <a href="https://leetcode.com/u/user0767uj/" target="_blank">
+    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=white&color=white"
+    height="70">
+  </a>
+  <a href="https://www.codechef.com/users/pr961849" target="_blank">
+    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=codechef&logoColor=brown&labelColor=white&color=white"
+    height="70">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/rajbhargavp/" target="_blank">
+    <img src="https://img.shields.io/badge/-_-white?style=for-the-badge&logo=geeksforgeeks&logoColor=14A800&labelColor=white&color=white"
+    height="70">
+  </a>
+</p>
