@@ -47,7 +47,7 @@
 
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/rajbhargav-pentapati](https://www.linkedin.com/in/rajbhargav-pentapati-0a6148237/)">
+<a href="https://www.linkedin.com/in/rajbhargav-pentapati-0a6148237/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="https://github.com/p172913">
