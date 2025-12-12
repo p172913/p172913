@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-mu-vert.vercel.app//api?username=p172913&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=p172913&theme=tokyonight&cache_seconds=3600" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=p172913&theme=tokyonight&cache_seconds=3600" height="160"/>
 </p>
 
 <p align="center">
