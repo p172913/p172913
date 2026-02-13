@@ -1,16 +1,56 @@
 <!-- Banner -->
 <h1 align="center">Hi 👋, I'm Raj Bhargav Pentapati</h1>
-<h3 align="center">DevOps & Backend Engineer | AWS • Kubernetes • CI/CD • Automation</h3>
+<h3 align="center">DevOps / Platform Engineer & Backend Engineer | AWS • Kubernetes OSS Contributor • CI/CD & Cloud Automation</h3>
 
 ---
 
-🚀 About Me
-- 🔧 DevOps Engineer automating **CI/CD, Kubernetes deployments & cloud infra**
-- 🧰 Backend engineer building scalable **Spring Boot microservices**
-- 🐍 Contributor to the **Kubernetes Python Client (CNCF)**  
-- ☁️ Experienced with **AWS, Docker, Jenkins, GitLab CI, Terraform, K8s**
-- 📈 Obsessed with automation, infra-as-code, performance & observability  
-- 🎯 Competitive programmer — **2000+ CodeChef | 1750+ LeetCode | 5★ HackerRank**
+💻 **Software Engineer (Backend) & DevOps Engineer** with 3+ years of experience
+building scalable services and **designing, operating, and automating**
+CI/CD pipelines, Kubernetes platforms, and cloud infrastructure in production.
+
+☸️ **Kubernetes OSS Contributor (CNCF)** — worked on upstream fixes spanning
+networking, client reliability, and distributed system behavior.
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 What I Do
+
+### 🧩 What I Build (Software Engineering)
+- Design and develop **Spring Boot microservices** and REST APIs
+- Optimize backend performance, reliability, and database interactions
+- Write clean, maintainable code in **Java, Python, and TypeScript**
+- Build end-to-end features spanning backend, APIs, and automation
+
+### ⚙️ What I Operate (DevOps / Platform)
+- Build and maintain **CI/CD pipelines** (Jenkins, GitHub Actions, GitLab CI)
+- Deploy and operate workloads on **Kubernetes**
+- Automate post-deployment validation, health checks, and release safety
+- Integrate **security scanning** directly into CI/CD pipelines
+- Debug production issues across containers, networking, and infra
+
+</td>
+<td width="50%" valign="top">
+
+## 🏢 Professional Experience
+**Software Engineer – Infor**
+- Designed and optimized Spring Boot REST APIs used in production systems 
+- Built and operated CI/CD pipelines using Jenkins, Docker, and Kubernetes 
+- Automated security scanning (OWASP ZAP, scanners) inside CI pipelines, reducing manual audit effort by ~90% 
+- Diagnosed and resolved production issues related to deployments, containers, networking, and runtime behavior 
+- Developed Python-based automation for post-deployment validation and service readiness checks 
+- Worked closely with backend teams to improve release reliability and rollback safety
+## 🌐 Open Source Contributions (CNCF)
+Active contributor across the **Kubernetes ecosystem** :
+- `kubernetes-client/python`
+- `minikube`
+
+</td>
+</tr>
+</table>
 
 ---
 
