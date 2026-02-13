@@ -138,6 +138,8 @@ Active contributor across the **Kubernetes ecosystem** :
 </table>
 </div>
 
+---
+
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/rajbhargav-pentapati/" >
