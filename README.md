@@ -53,8 +53,27 @@ Active contributor across the **Kubernetes ecosystem** :
 </table>
 
 ---
+<table>
+<tr>
+<td width="50%" valign="top">
+  
+## 🚧 Featured Project
 
-<h1 align="center">🔥 Tech Stack</h1>
+### 🔐 SecAuditHub — Automated Security Auditing Platform
+**Tech:** TypeScript, Node.js, Docker, GitHub Actions
+
+- Designed a CLI-based security auditing framework integrating multiple scanners
+- Containerized scanners for reproducible and isolated execution
+- Integrated CI automation to run security checks on every change
+- Executed 40+ automated scans during development to identify container,
+  network, and configuration-level risks
+- Architected with clean separation between CLI, APIs, and reporting layers,
+  enabling future dashboard and AI-driven analysis
+
+</td>
+<td width="50%" valign="top">
+  
+## 🔥 Tech Stack
 
 <h3 align="center">🧩 DevOps & Cloud</h3>
 <p align="center">
@@ -70,6 +89,11 @@ Active contributor across the **Kubernetes ecosystem** :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,mysql,postgres,git,github" />
 </p>
+</td>
+</tr>
+</table>
+
+---
 
 <h3 align="center">📊 GitHub Stats </h3>
 
@@ -78,22 +102,13 @@ Active contributor across the **Kubernetes ecosystem** :
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=p172913&theme=tokyonight&cache_seconds=3600" height="160"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-mu-vert.vercel.app//api/top-langs/?username=p172913&layout=compact&theme=tokyonight" height="160"/>
-</p>
+</p> -->
 
 
 ---
 
-<h3 align="center">🤝 Connect With Me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/rajbhargav-pentapati/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/p172913">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-</p>
 <h3 align="center">💻 Competitive Programming</h3>
 <p align="center">
   <a href="https://leetcode.com/u/user0767uj/" target="_blank">
@@ -105,4 +120,14 @@ Active contributor across the **Kubernetes ecosystem** :
   <a href="https://www.geeksforgeeks.org/user/rajbhargavp/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/geeksforgeeks.svg" width="40" height="40">
   </a>
+</p>
+
+<h3 align="center">🤝 Connect With Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/rajbhargav-pentapati/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/p172913">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
 </p>
