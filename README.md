@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I'm Raj Bhargav Pentapati</h1>
-<h3 align="center">DevOps / Platform Engineer & Backend Engineer | AWS • Kubernetes OSS Contributor • CI/CD & Cloud Automation</h3>
+<h3 align="center">Software Engineer (Platform/DevOps) @ Infor | CNCF Contributor | CI/CD & Cloud Infrastructure | NITW ’22</h3>
 
 ---
 
