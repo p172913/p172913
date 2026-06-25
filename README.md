@@ -106,8 +106,11 @@ Active contributor across the **Kubernetes ecosystem** :
 
 
 ---
-[![GitLab Contributor Stats](https://contributors.gitlab.com/users/P172913/banner.svg)](https://contributors.gitlab.com/users/P172913)
-
+<p align="center">
+  <a href="https://contributors.gitlab.com/users/P172913">
+    <img src="https://contributors.gitlab.com/users/P172913/banner.svg" alt="GitLab Contributor Stats" />
+  </a>
+</p>
 ---
 
 <h3 align="center">Competitive Programming</h3>
